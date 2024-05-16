@@ -32,13 +32,6 @@ HTML CSS JS
 Artificial Intellegence 
 Natural Language Processing
 
- 
-
-
-## Demo
-
-https://youtu.be/yBB4ZXeBUcI?si=XKBQ4SOWQzpEB9Ab
-
 
 ## Deployment
 
